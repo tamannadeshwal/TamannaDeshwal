@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=160&section=header&text=TamannaD&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Debugging%20reality%2C%20one%20line%20at%20a%20time%20%F0%9F%8C%B8&descAlignY=68&descSize=16" width="100%"/>
 
-<h1 align="center">Hey there 👋, I'm Tamanna Deshwal</h1>
+<h1 align="center">Hey there 👋, I'm Tamanna </h1>
 <h3 align="center">Aspiring Software Engineer | Curious Mind | Building from Zero ✨</h3>
 
 ---
